@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">busbooking</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="title_activity_testmap">Map</string>
+    <string name="title_activity_testfornewgoogleapi">Map</string>
+    <string name="title_activity_diver_maps">Map</string>
+</resources>
